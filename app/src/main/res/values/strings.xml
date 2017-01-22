@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chord Companion</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_metronome">MetronomeActivity</string>
+    <string name="metronome_time_sig">4/4</string>
+</resources>
